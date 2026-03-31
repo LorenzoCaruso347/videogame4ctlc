@@ -64,7 +64,7 @@
       "description": "Raccogli regali, consegnali all'albero e scappa dal Grinch. Neve, difficolta' e vibe natalizia.",
       "controls": [
         "Freccia sinistra/destra o A/D per muoversi",
-        "SPAZIO per saltare",
+        "SPAZIO o W o Freeccia in su per saltare",
         "R per restart (game over/victory)"
       ]
     },
@@ -74,7 +74,7 @@
       "display_name": "Caruso - Inf Presents",
       "short_tagline": "Natale sotto pressione: consegne e inseguimenti",
       "description": "Versione con regali infiniti.",
-      "controls": []
+      "controls": ["Uguali alla versione con 40 regali"]
     },
     {
       "id": "cotta",
