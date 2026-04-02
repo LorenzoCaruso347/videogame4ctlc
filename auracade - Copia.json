@@ -59,7 +59,7 @@
     {
       "id": "caruso_20",
       "file": "caruso/20 (40 presents).py",
-      "display_name": "Caruso - 40 presents",
+      "display_name": "Caruso - Catch 40 presents",
       "short_tagline": "Natale sotto pressione: consegne e inseguimenti",
       "description": "Raccogli regali, consegnali all'albero e scappa dal Grinch. Neve, difficolta' e vibe natalizia.",
       "controls": [
@@ -71,7 +71,7 @@
     {
       "id": "caruso_21",
       "file": "caruso/21.py",
-      "display_name": "Caruso - Inf Presents",
+      "display_name": "Caruso - Catch all the Presents",
       "short_tagline": "Natale sotto pressione: consegne e inseguimenti",
       "description": "Versione con regali infiniti.",
       "controls": ["Uguali alla versione con 40 regali"]
